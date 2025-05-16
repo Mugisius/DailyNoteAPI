@@ -1,2 +1,2 @@
 # My Demo REST API project
-REST API for To-Do list management
+REST API for daily notes management
